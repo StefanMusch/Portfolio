@@ -1,4 +1,4 @@
-baseURL: stefanmuschportfolio.netlify.app
+baseURL: https://stefanmuschportfolio.netlify.app
 languageCode: en-us
 theme: raditian-free-hugo-theme
 params:

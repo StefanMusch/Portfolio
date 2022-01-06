@@ -50,8 +50,8 @@ about:
     btnText: "LinkedIn"
     URL: "https://www.linkedin.com/in/steven-brok-15a0ba59/"
   image:
-    x: "img/who-am-i/user-picture.png"
-    _2x: "img/who-am-i/user-picture@2x.png"
+    x: "img/who-am-i/headshot2.jpg"
+    _2x: "img/who-am-i/headshot2.jpg"
 
 # education
 education:
