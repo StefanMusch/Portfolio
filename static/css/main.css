@@ -362,7 +362,7 @@ dd,label,legend{
 }
 /*! * Bootstrap v4.3.1 (https://getbootstrap.com/) * Copyright 2011-2019 The Bootstrap Authors * Copyright 2011-2019 Twitter, Inc. * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) */
 :root{
-    --main_color: #427AA1;
+    --main_color: #6998AB;
     --blue:#007bff;
     --indigo:#6610f2;
     --purple:#6f42c1;
@@ -8546,7 +8546,7 @@ html,html body{
 .experience__company{
     font-size:14px;
     font-weight:700;
-    color:--var(main_color)
+    color:var(--main_color)
 }
 .clients{
     display:-webkit-box;
@@ -8634,7 +8634,7 @@ html,html body{
 .testimonial__author-info span{
     font-size:14px;
     font-weight:700;
-    color:--var(main_color)
+    color:var(--main_color)
 }
 html{
     height:100%;
@@ -8649,11 +8649,11 @@ html body{
     font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,'Noto Sans',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji'
 }
 html body ::-moz-selection{
-    background-color:--var(main_color);
+    background-color:var(--main_color);
     color:#fff
 }
 html body ::selection{
-    background-color:--var(main_color);
+    background-color:var(--main_color);
     color:#fff
 }
 input[type=text]:focus,input[type=email]:focus,input[type=password]:focus,textarea:focus{
@@ -8893,7 +8893,7 @@ input[type=text]:focus,input[type=email]:focus,input[type=password]:focus,textar
     font-size:25px;
     font-weight:900;
     letter-spacing:-1.17px;
-    color:--var(main_color)
+    color:var(--main_color)
 }
 @media (min-width:768px){
     .header .navbar-brand img{
