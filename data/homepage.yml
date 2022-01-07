@@ -10,11 +10,11 @@ showcase:
   description: "I currently work at <a target='_blank' href='https://www.gradientmetrics.com'>Gradient Metrics</a> as the Head of Data Science. Gradient is a team of data scientists, programmers, and researchers driven by statistics and grounded in stories. Gradient is a growing team, which means that my responsibilities have shifted from pure ad-hoc client analyses to developing statistically robust research products."
   image:
     alt: "Showcase keyboard and mouse image"
-    x: "img/showcase/showcase.png"
-    _2x: "img/showcase/showcase@2x.png"
+    x: "img/who-am-i/stefan-brug.png"
+    _2x: "img/who-am-i/stefan-brug.png"
   imageMobile:
     alt: "Showcase keyboard and mouse image"
-    x: "img/showcase/showcase-mobile.jpg"
+    x: "img/who-am-i/stefan-brug.png"
 
   button:
     icon: "icon-mail-fill"
@@ -48,7 +48,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "LinkedIn"
-    URL: "https://www.linkedin.com/in/steven-brok-15a0ba59/"
+    URL: "https://www.linkedin.com/in/stefanmusch/"
   image:
     x: "img/who-am-i/headshot2.jpg"
     _2x: "img/who-am-i/headshot2.jpg"
@@ -82,7 +82,7 @@ experience:
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/company/radity/"
+    URL: "https://www.linkedin.com/in/stefanmusch/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
@@ -107,7 +107,7 @@ experience:
 
 # Client & Work
 client_and_work:
-  title: "Mijn Klanten"
+  title: "Clients I've worked with"
   enable: true
 
   clients:
@@ -142,15 +142,15 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+    - title: "Chartwise - Data Consultancy"
+      description: "Founder & Data Manager of a full-service Data Consultancy company."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
+        btnText: "Check it out"
+        URL: "https://www.chartwise.nl"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "img/works/chartwise.png"
+        _2x: "img/works/chartwise.png"
       is_even: true
 
     - title: "Swiss Fintech Website"
@@ -178,7 +178,7 @@ client_and_work:
 # testimonial
 testimonial:
   enable: true
-  title: "Testimonials"
+  title: "What people say about me"
   items:
     - name: "Hannes Datta"
       position: "Associate Professor at Tilburg University"
@@ -204,7 +204,7 @@ testimonial:
 # contact
 contact:
   enable: true
-  title: "Contact"
+  title: "Reach out"
   form:
     method: "POST"
     action: "#"
@@ -218,8 +218,8 @@ contact:
     title: "Email"
     email: '<a href="mailto:team@radity.com">team@radity.com</a>'
   address:
-    title: "Adres"
-    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+    title: "Address"
+    address: "Drunen<br />5151, The Netherlands"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
