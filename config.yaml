@@ -11,7 +11,6 @@ params:
     #   x: img/logos/bbb_favicon.png
   googleTagManagerID: GTM-000000
   logo:
-    image1: img/logos/bbb_main.png
     image2: img/logos/favicon.ico
     text1: Stefan
     text2: Musch
