@@ -362,7 +362,6 @@ dd,label,legend{
 }
 /*! * Bootstrap v4.3.1 (https://getbootstrap.com/) * Copyright 2011-2019 The Bootstrap Authors * Copyright 2011-2019 Twitter, Inc. * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) */
 :root{
-    --main_color: #6998AB;
     --blue:#007bff;
     --indigo:#6610f2;
     --purple:#6f42c1;
@@ -8517,7 +8516,8 @@ input[type=text]::placeholder,input[type=email]::placeholder{
 .about__profile-picture img{
     min-width:200px;
     min-height:200px;
-    border-radius: 50%;
+    -webkit-clip-path: polygon(0 0,86% 0,100% 100%,0 100%);
+    clip-path: polygon(0 0,86% 0,100% 100%,0 100%);
 }
 html,html body{
     min-height:100%
@@ -9007,7 +9007,7 @@ input[type=text]:focus,input[type=email]:focus,input[type=password]:focus,textar
 }
 @media (min-width:1200px){
     .section div[class*=col-] img.image-left-overflow{
-        margin-left:-120px
+        margin-left:-75px
     }
     .header .navbar .nav-item .nav-link{
         padding-left:20px;

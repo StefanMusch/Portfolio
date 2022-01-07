@@ -1,2 +1,9 @@
 /* You can customize theme styles here */
 
+:root{
+    --main_color: #6998AB;
+}
+
+.greyscale {
+  filter: grayscale(100%);
+}

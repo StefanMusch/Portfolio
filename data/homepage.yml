@@ -10,8 +10,8 @@ showcase:
   description: "I currently work at <a target='_blank' href='https://www.gradientmetrics.com'>Gradient Metrics</a> as the Head of Data Science. Gradient is a team of data scientists, programmers, and researchers driven by statistics and grounded in stories. Gradient is a growing team, which means that my responsibilities have shifted from pure ad-hoc client analyses to developing statistically robust research products."
   image:
     alt: "Showcase keyboard and mouse image"
-    x: "img/who-am-i/stefan-brug.png"
-    _2x: "img/who-am-i/stefan-brug.png"
+    x: "img/showcase/data-scientist.png"
+    _2x: "img/showcase/data-scientist.png"
   imageMobile:
     alt: "Showcase keyboard and mouse image"
     x: "img/who-am-i/stefan-brug.png"
@@ -50,8 +50,8 @@ about:
     btnText: "LinkedIn"
     URL: "https://www.linkedin.com/in/stefanmusch/"
   image:
-    x: "img/who-am-i/headshot2.jpg"
-    _2x: "img/who-am-i/headshot2.jpg"
+    x: "img/who-am-i/stefan-brug-links.png"
+    _2x: "img/who-am-i/stefan-brug-links.png"
 
 # education
 education:
@@ -110,36 +110,43 @@ client_and_work:
   title: "Clients I've worked with"
   enable: true
 
+  title_works: "My projects"
   clients:
     - logo:
         x: "img/clients/asgardia.png"
         _2x: "img/clients/asgardia@2x.png"
       alt: "Asgardia"
+      URL: "#"
 
     - logo:
         x: "img/clients/earth-2.png"
         _2x: "img/clients/earth-2@2x.png"
       alt: "Earth 2.0"
+      URL: "#"
 
     - logo:
         x: "img/clients/goldline.png"
         _2x: "img/clients/goldline@2x.png"
       alt: "Goldline"
+      URL: "#"
 
     - logo:
         x: "img/clients/kanba.png"
         _2x: "img/clients/kanba@2x.png"
       alt: "Kanba"
+      URL: "#"
 
     - logo:
         x: "img/clients/zoo-tv.png"
         _2x: "img/clients/zoo-tv@2x.png"
       alt: "Zoo"
+      URL: "#"
 
     - logo:
         x: "img/clients/ztos.png"
         _2x: "img/clients/ztos@2x.png"
       alt: "Ztos"
+      URL: "#"
 
   works:
     - title: "Chartwise - Data Consultancy"
